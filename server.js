@@ -25,15 +25,6 @@ const sess = {
     }),
 };
 
-// const db = mysql.createConnection(
-//     {
-//         host: 'localhost',
-//         user: 'root',
-//         password: '',
-//         database: 'user_db'
-//     }
-// )
-
 app.use(session(sess));
 
 const hbs = exphbs.create({ helpers });
