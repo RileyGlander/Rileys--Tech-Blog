@@ -23,7 +23,9 @@ Download the repository using the instructions provided above. Open the reposito
 
 Kat’s Coding Journey. (2022, July 18). MVC Tech Blog. YouTube. https://www.youtube.com/watch?v=p99Mw2ByqKc
 
-OwaisIslam. (2020, October 25). OWAISISLAM/tech-blog: Coding bootcamp - 14. model-view-controller (MVC) challenge: Tech blog. GitHub. https://github.com/OwaisIslam/tech-blogmidth002. (2022, May 8). MIDTH002/14-tech-blog: Full stack blog to add posts about different technologies used in software development. GitHub. https://github.com/midth002/14-tech-blog
+OwaisIslam. (2020, October 25). OWAISISLAM/tech-blog: Coding bootcamp - 14. model-view-controller (MVC) challenge: Tech blog. GitHub. https://github.com/OwaisIslam/tech-blog 
+
+midth002. (2022, May 8). MIDTH002/14-tech-blog: Full stack blog to add posts about different technologies used in software development. GitHub. https://github.com/midth002/14-tech-blog 
 
 Xpert Learning Assistant. (2023). Full Stack Application Development Course Discussions. Retrieved from edX
 
