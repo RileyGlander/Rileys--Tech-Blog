@@ -2,6 +2,8 @@
 
 ![Screenshot (103)](https://github.com/RileyGlander/Rileys-Tech-Blog/assets/142702948/aa54a405-524f-49a1-85cb-23cc7b6b7242)
 
+## Video 
+https://drive.google.com/file/d/1_RNnI_sDFmwuWwxOUN7C0ZECEw9R-JMv/view
 
 ## Description
 - What was your motivation? What motivated me was to build a easy to navigate site where users could create their own posts and add comments to others. For trying to build something like this really took a step further and for me I wanted to give myself a real challenge.
