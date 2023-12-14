@@ -1,22 +1,15 @@
 const Sequelize = require('sequelize');
 require('dotenv').config();
 
-let sequelize;
-
-if (process.env.POSTGRES_DB) {
-  sequelize = new Seqeuelize(process.env.POSTGRES_DB);
-}
-else{
-
-sequelize = new Sequelize(
+const sequelize = new Sequelize(
   process.env.DB_NAME,
   process.env.DB_USER,
   process.env.DB_PASSWORD,
   {
     host: 'localhost',
     dialect: 'mysql',
-    port: 3306,
+    port: 3006,
   }
-)};
+);
 
 module.exports = sequelize;
